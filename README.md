@@ -1,7 +1,7 @@
-# pyFastApi
+### pyFastApi
 # Visit http://127.0.0.1:8000 in your browser
 
-# Building a Simple Blog App Using FastAPI, HTML, CSS, and JSON
+### Building a Simple Blog App Using FastAPI, HTML, CSS, and JSON
 #
 python
 #
